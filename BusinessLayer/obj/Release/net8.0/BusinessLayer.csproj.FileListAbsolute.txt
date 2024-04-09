@@ -1,0 +1,13 @@
+I:\ProjectAsp\NewProject1\ReceiptApi\BusinessLayer\bin\Release\net8.0\BusinessLayer.deps.json
+I:\ProjectAsp\NewProject1\ReceiptApi\BusinessLayer\bin\Release\net8.0\BusinessLayer.dll
+I:\ProjectAsp\NewProject1\ReceiptApi\BusinessLayer\bin\Release\net8.0\BusinessLayer.pdb
+I:\ProjectAsp\NewProject1\ReceiptApi\BusinessLayer\obj\Release\net8.0\BusinessLayer.csproj.AssemblyReference.cache
+I:\ProjectAsp\NewProject1\ReceiptApi\BusinessLayer\obj\Release\net8.0\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+I:\ProjectAsp\NewProject1\ReceiptApi\BusinessLayer\obj\Release\net8.0\BusinessLayer.AssemblyInfoInputs.cache
+I:\ProjectAsp\NewProject1\ReceiptApi\BusinessLayer\obj\Release\net8.0\BusinessLayer.AssemblyInfo.cs
+I:\ProjectAsp\NewProject1\ReceiptApi\BusinessLayer\obj\Release\net8.0\BusinessLayer.csproj.CoreCompileInputs.cache
+I:\ProjectAsp\NewProject1\ReceiptApi\BusinessLayer\obj\Release\net8.0\BusinessLayer.sourcelink.json
+I:\ProjectAsp\NewProject1\ReceiptApi\BusinessLayer\obj\Release\net8.0\BusinessLayer.dll
+I:\ProjectAsp\NewProject1\ReceiptApi\BusinessLayer\obj\Release\net8.0\refint\BusinessLayer.dll
+I:\ProjectAsp\NewProject1\ReceiptApi\BusinessLayer\obj\Release\net8.0\BusinessLayer.pdb
+I:\ProjectAsp\NewProject1\ReceiptApi\BusinessLayer\obj\Release\net8.0\ref\BusinessLayer.dll
